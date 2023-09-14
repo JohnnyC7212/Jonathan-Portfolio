@@ -1,0 +1,22 @@
+body {
+    text-align:center;
+    font-weight:bold;
+    font-size:20px;
+}
+
+nav {
+    top:-70px;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.flex-container {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+body {
+    background-color:aqua;
+}
