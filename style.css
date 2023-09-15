@@ -19,16 +19,15 @@ nav {
 
 /* Background color */
 body {
-    background-color:aqua;
+    background-color:rgb(195, 184, 184);
 }
 
 /* project images */
-.whats-coding {
-    
-}
+
 
 /* Contact info */
 h2 {
     text-align:center;
     padding-top:20px;
+    margin-top:40px;
 }
