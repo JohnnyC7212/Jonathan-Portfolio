@@ -11,12 +11,24 @@ nav {
 
 }
 
+/* Portfolio Container */
 .flex-container {
-    display:flex;
-    flex-wrap: wrap;
-    justify-content: center;
+   justify-content: center;
+   padding-bottom: 12px;
 }
 
+/* Background color */
 body {
     background-color:aqua;
+}
+
+/* project images */
+.whats-coding {
+    
+}
+
+/* Contact info */
+h2 {
+    text-align:center;
+    padding-top:20px;
 }
